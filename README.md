@@ -1,6 +1,7 @@
 # forge-inflector-standalone
 
 [![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
+[![Build Status](https://travis-ci.org/saasquatch/forge-inflector-standalone.svg)](https://travis-ci.org/saasquatch/forge-inflector-standalone)
 [![](https://jitci.com/gh/saasquatch/forge-inflector-standalone/svg)](https://jitci.com/gh/saasquatch/forge-inflector-standalone)
 [![](https://jitpack.io/v/saasquatch/forge-inflector-standalone.svg)](https://jitpack.io/#saasquatch/forge-inflector-standalone)
 

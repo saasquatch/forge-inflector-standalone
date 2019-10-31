@@ -7,6 +7,17 @@
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
+  <name>forge-inflector-standalone</name>
+  <url>https://github.com/saasquatch/forge-inflector-standalone</url>
+  <inceptionYear>2019</inceptionYear>
+  <licenses>
+    <license>
+      <name>Eclipse Public License - v 1.0</name>
+      <url>https://www.eclipse.org/legal/epl-v10.html</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <junit.version>4.12</junit.version>

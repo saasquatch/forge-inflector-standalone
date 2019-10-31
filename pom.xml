@@ -73,4 +73,12 @@
     </plugins>
   </build>
 
+  <distributionManagement>
+    <repository>
+      <id>bintray-saasquatch-java-libs</id>
+      <name>saasquatch-java-libs</name>
+      <url>https://api.bintray.com/maven/saasquatch/java-libs/forge-inflector-standalone/;publish=1</url>
+    </repository>
+  </distributionManagement>
+
 </project>

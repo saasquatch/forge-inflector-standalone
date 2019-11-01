@@ -17,33 +17,17 @@ Maven
 ```xml
 <repositories>
   <repository>
-    <snapshots>
-      <enabled>false</enabled>
-    </snapshots>
-    <id>bintray-saasquatch-java-libs</id>
-    <name>bintray</name>
-    <url>https://dl.bintray.com/saasquatch/java-libs</url>
+    <id>jcenter</id>
+    <url>https://jcenter.bintray.com/</url>
   </repository>
 </repositories>
-<pluginRepositories>
-  <pluginRepository>
-    <snapshots>
-      <enabled>false</enabled>
-    </snapshots>
-    <id>bintray-saasquatch-java-libs</id>
-    <name>bintray-plugins</name>
-    <url>https://dl.bintray.com/saasquatch/java-libs</url>
-  </pluginRepository>
-</pluginRepositories>
 ```
 
 Gradle
 
 ```gradle
 repositories {
-  maven {
-    url  "https://dl.bintray.com/saasquatch/java-libs"
-  }
+  jcenter()
 }
 ```
 

@@ -40,7 +40,6 @@ Maven
   <groupId>com.saasquatch</groupId>
   <artifactId>forge-inflector-standalone</artifactId>
   <version>1.0.0</version>
-  <type>pom</type>
 </dependency>
 ```
 

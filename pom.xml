@@ -4,16 +4,17 @@
 
   <groupId>com.saasquatch</groupId>
   <artifactId>forge-inflector-standalone</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <packaging>jar</packaging>
 
   <name>forge-inflector-standalone</name>
+  <description>Standalone Inflector.java from JBoss Forge</description>
   <url>https://github.com/saasquatch/forge-inflector-standalone</url>
   <inceptionYear>2019</inceptionYear>
   <licenses>
     <license>
-      <name>Eclipse Public License - v 1.0</name>
-      <url>https://www.eclipse.org/legal/epl-v10.html</url>
+      <name>Eclipse Public License 1.0</name>
+      <url>http://www.eclipse.org/legal/epl-v10.html</url>
       <distribution>repo</distribution>
     </license>
   </licenses>

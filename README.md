@@ -40,12 +40,12 @@ Maven
 <dependency>
   <groupId>com.saasquatch</groupId>
   <artifactId>forge-inflector-standalone</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
 </dependency>
 ```
 
 Gradle
 
 ```gradle
-compile 'com.saasquatch:forge-inflector-standalone:1.0.0'
+compile 'com.saasquatch:forge-inflector-standalone:1.0.1'
 ```
